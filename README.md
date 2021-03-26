@@ -9,3 +9,6 @@ paper: Confronting data sparsity to identify potential sources of Zika virus spi
 
 Source code and Data available:
 https://github.com/shubhobm/Predict-zika-res
+
+Topics Investigated:
+1. Concepts of learning via Label Embeddings## 
