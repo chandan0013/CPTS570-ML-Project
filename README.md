@@ -11,4 +11,5 @@ Source code and Data available:
 https://github.com/shubhobm/Predict-zika-res
 
 Topics Investigated:
-1. Concepts of learning via Label Embeddings## 
+1. Concepts of learning via Label Embeddings
+2. Detecting virus spillover among  primates.###
